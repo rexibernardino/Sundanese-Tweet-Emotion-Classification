@@ -1,5 +1,8 @@
 In this project, we decided to try an NLP Task (Emotion Classification).
 
+Link of dataset that we used:
+https://archive.ics.uci.edu/dataset/695/sundanese+twitter+dataset
+
 The dataset are gathered from Twitter API that is filtered by using some hashtags which are representing Sundanese emotion. These are the hashtags :
  #persib, #corona, #saredih,
 #nyakakak, #garoblog, #sangsara, #gumujeng, #bungah,
